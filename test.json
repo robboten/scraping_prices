@@ -1,0 +1,2282 @@
+{
+    "success": true,
+    "offers": [
+        {
+            "id": 134504270,
+            "affiliateUrl": "https://www.hrkgame.com/en/games/product/hitman-3-europe",
+            "isActive": true,
+            "merchant": "94",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "-10%: ALLKEYSHOP10",
+                        "discountValue": "10.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 15.48,
+                    "priceWithoutCoupon": 17.2
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133395388,
+            "affiliateUrl": "https://www.kinguin.net/category/80607/hitman-3-eu-epic-games-cd-key?r=3445&nosalesbooster=1&currency=EUR&discount=OCTOBER14",
+            "isActive": true,
+            "merchant": "47",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "14%: OCTOBER14",
+                        "discountValue": "14.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 15.65,
+                    "priceWithoutCoupon": 18.2
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134522273,
+            "affiliateUrl": "https://k4g.com/product/hitman-3-epic-games-europe-standard-edition-cd-key-AA17C5F6?r=aks",
+            "isActive": true,
+            "merchant": "324",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "10%: AKS10OCTOBER",
+                        "discountValue": "10.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 15.65,
+                    "priceWithoutCoupon": 17.39
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134474250,
+            "affiliateUrl": "https://www.eneba.com/epic-games-hitman-3-epic-games-key-europe?af_id=allkeyshop",
+            "isActive": true,
+            "merchant": "272",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "8%: AKS8",
+                        "discountValue": "8.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 15.91,
+                    "priceWithoutCoupon": 17.29
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133299847,
+            "affiliateUrl": "https://www.gamivo.com/product/hitman-3-eu-epic-games?glv=kiwhuamu",
+            "isActive": true,
+            "merchant": "218",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "8%: AKSOCTOBER",
+                        "discountValue": "8.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 16.1,
+                    "priceWithoutCoupon": 17.5
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 132997844,
+            "affiliateUrl": "https://www.instant-gaming.com/en/6851-buy-key-steam-hitman-3/?igr=289098",
+            "isActive": true,
+            "merchant": "13",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 16.69,
+                    "priceWithoutCoupon": 16.69
+                }
+            },
+            "edition": "1",
+            "region": "80",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133547726,
+            "affiliateUrl": "https://www.cdkeys.com/hitman-3-pc-eu-epic-games?mw_aref=8023ef0aa94165947417b567beee956d",
+            "isActive": true,
+            "merchant": "9",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "-5%: AGENT47",
+                        "discountValue": "5.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 16.71,
+                    "priceWithoutCoupon": 17.59
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133547858,
+            "affiliateUrl": "https://www.gamers-outlet.net/buy-hitman-3-cd-key-epic-games?tracking=allkeyshop",
+            "isActive": true,
+            "merchant": "77",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 17.06,
+                    "priceWithoutCoupon": 17.06
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134077783,
+            "affiliateUrl": "https://www.vidaplayer.com/product/game-epic-games-europe/hitman-3",
+            "isActive": true,
+            "merchant": "224",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 17.46,
+                    "priceWithoutCoupon": 17.46
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133523840,
+            "affiliateUrl": "https://www.g2a.com/en/hitman-3-pc-epic-games-key-europe-i10000218039008?aid=13235161&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_PLUS_GAM_LISTING_NOR_allkeyshopPLUS",
+            "isActive": true,
+            "merchant": "61616",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "1.99€ Monthly Sub",
+                        "discountValue": "0.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 17.84,
+                    "priceWithoutCoupon": 17.84
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133280133,
+            "affiliateUrl": "https://www.mmoga.com/Epic-Store-Games/Hitman-3-Epic-Games-Store-Key.html?ref=615&currency=EUR",
+            "isActive": true,
+            "merchant": "40",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 17.99,
+                    "priceWithoutCoupon": 17.99
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133557340,
+            "affiliateUrl": "https://www.cjs-cdkeys.com/products/Hitman-3-Epic-Games-CD-Key-%28Digital-Download%29.html",
+            "isActive": true,
+            "merchant": "67",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 18.12,
+                    "priceWithoutCoupon": 18.12
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133394555,
+            "affiliateUrl": "http://www.gamingdragons.com/en/game/buy-hitman-3-epic-games-key.html?gmdr=0973674c",
+            "isActive": true,
+            "merchant": "73",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 18.95,
+                    "priceWithoutCoupon": 18.95
+                }
+            },
+            "edition": "1",
+            "region": "80",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133551203,
+            "affiliateUrl": "https://www.kinguin.net/category/82178/hitman-3-epic-games-cd-key&roff=1?r=3445&nosalesbooster=1&currency=EUR&discount=OCTOBER14",
+            "isActive": true,
+            "merchant": "47",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "14%: OCTOBER14",
+                        "discountValue": "14.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 19.77,
+                    "priceWithoutCoupon": 22.99
+                }
+            },
+            "edition": "1",
+            "region": "80",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133383097,
+            "affiliateUrl": "https://www.g2a.com/en/hitman-3-pc-epic-games-key-europe-i10000218039008?aid=13235161&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop",
+            "isActive": true,
+            "merchant": "61",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 19.82,
+                    "priceWithoutCoupon": 19.82
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134513555,
+            "affiliateUrl": "https://www.eneba.com/steam-hitman-3-pc-steam-key-global?af_id=allkeyshop",
+            "isActive": true,
+            "merchant": "272",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "8%: AKS8",
+                        "discountValue": "8.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 20.19,
+                    "priceWithoutCoupon": 21.95
+                }
+            },
+            "edition": "1",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 133399743,
+            "affiliateUrl": "https://www.play-asia.com/hitman-iii/13/70dv8z?ref=sa_alks&affiliate_id=1827027",
+            "isActive": true,
+            "merchant": "49",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 20.87,
+                    "priceWithoutCoupon": 20.87
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133534741,
+            "affiliateUrl": "https://punktid.com/hitman-3-0",
+            "isActive": true,
+            "merchant": "307",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "-5%: AKS5",
+                        "discountValue": "5.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 21.84,
+                    "priceWithoutCoupon": 22.99
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133960915,
+            "affiliateUrl": "https://livecards.eu/en/hitman-3-pc/afd/allkeyshop/",
+            "isActive": true,
+            "merchant": "315",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 21.95,
+                    "priceWithoutCoupon": 21.95
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133854273,
+            "affiliateUrl": "https://www.vidaplayer.com/product/game-epic-games-worldwide/hitman-3",
+            "isActive": true,
+            "merchant": "224",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 22.06,
+                    "priceWithoutCoupon": 22.06
+                }
+            },
+            "edition": "1",
+            "region": "80",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133270631,
+            "affiliateUrl": "https://www.gamivo.com/product/hitman-3-epic-games?glv=kiwhuamu",
+            "isActive": true,
+            "merchant": "218",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "8%: AKSOCTOBER",
+                        "discountValue": "8.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 22.57,
+                    "priceWithoutCoupon": 24.53
+                }
+            },
+            "edition": "1",
+            "region": "80",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134652039,
+            "affiliateUrl": "https://www.instant-gaming.com/en/12619-/?igr=289098",
+            "isActive": true,
+            "merchant": "13",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 23.7,
+                    "priceWithoutCoupon": 23.7
+                }
+            },
+            "edition": "1",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 133270630,
+            "affiliateUrl": "https://www.hrkgame.com/en/games/product/hitman-3",
+            "isActive": true,
+            "merchant": "94",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "-10%: ALLKEYSHOP10",
+                        "discountValue": "10.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 23.96,
+                    "priceWithoutCoupon": 26.62
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134061531,
+            "affiliateUrl": "https://k4g.com/product/hitman-3-epic-games-global-standard-edition-cd-key-47EB6345?r=aks",
+            "isActive": true,
+            "merchant": "324",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "10%: AKS10OCTOBER",
+                        "discountValue": "10.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 24.01,
+                    "priceWithoutCoupon": 26.68
+                }
+            },
+            "edition": "1",
+            "region": "80",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134524098,
+            "affiliateUrl": "https://www.kinguin.net/category/115956/hitman-3-steam-cd-key?r=3445&nosalesbooster=1&currency=EUR&discount=OCTOBER14",
+            "isActive": true,
+            "merchant": "47",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "14%: OCTOBER14",
+                        "discountValue": "14.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 24.04,
+                    "priceWithoutCoupon": 27.95
+                }
+            },
+            "edition": "1",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134478652,
+            "affiliateUrl": "https://www.eneba.com/epic-games-hitman-3-epic-games-key-global?af_id=allkeyshop",
+            "isActive": true,
+            "merchant": "272",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "8%: AKS8",
+                        "discountValue": "8.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 24.09,
+                    "priceWithoutCoupon": 26.19
+                }
+            },
+            "edition": "1",
+            "region": "80",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134519079,
+            "affiliateUrl": "https://keyesd.myshopify.com/products/hitman-3-eu",
+            "isActive": true,
+            "merchant": "325",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 24.54,
+                    "priceWithoutCoupon": 24.54
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134607010,
+            "affiliateUrl": "https://www.kinguin.net/category/120116/hitman-3-eu-steam-cd-key?r=3445&nosalesbooster=1&currency=EUR&discount=OCTOBER14",
+            "isActive": true,
+            "merchant": "47",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "14%: OCTOBER14",
+                        "discountValue": "14.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 25.67,
+                    "priceWithoutCoupon": 29.85
+                }
+            },
+            "edition": "1",
+            "region": "9",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134569366,
+            "affiliateUrl": "https://www.cdkeys.com/hitman-3-pc-steam?mw_aref=8023ef0aa94165947417b567beee956d",
+            "isActive": true,
+            "merchant": "9",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 25.79,
+                    "priceWithoutCoupon": 25.79
+                }
+            },
+            "edition": "1",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 133524055,
+            "affiliateUrl": "https://www.g2a.com/en/hitman-3-pc-epic-games-key-global-i10000218039003?aid=13261684&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_PLUS_GAM_LISTING_NOR_allkeyshopPLUS",
+            "isActive": true,
+            "merchant": "61616",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "1.99€ Monthly Sub",
+                        "discountValue": "0.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 26,
+                    "priceWithoutCoupon": 26
+                }
+            },
+            "edition": "1",
+            "region": "80",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133071217,
+            "affiliateUrl": "https://www.gamivo.com/product/hitman-3?glv=kiwhuamu",
+            "isActive": true,
+            "merchant": "218",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "8%: AKSOCTOBER",
+                        "discountValue": "8.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 26.67,
+                    "priceWithoutCoupon": 28.99
+                }
+            },
+            "edition": "1",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134557371,
+            "affiliateUrl": "https://www.gamivo.com/product/hitman-3-eu?glv=kiwhuamu",
+            "isActive": true,
+            "merchant": "218",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "8%: AKSOCTOBER",
+                        "discountValue": "8.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 26.77,
+                    "priceWithoutCoupon": 29.1
+                }
+            },
+            "edition": "1",
+            "region": "9",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134570388,
+            "affiliateUrl": "https://www.mmoga.com/Steam-Games/HITMAN-3.html?ref=615&currency=EUR",
+            "isActive": true,
+            "merchant": "40",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 26.99,
+                    "priceWithoutCoupon": 26.99
+                }
+            },
+            "edition": "1",
+            "region": "9",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134563173,
+            "affiliateUrl": "https://www.eneba.com/steam-hitman-3-pc-steam-key-europe?af_id=allkeyshop",
+            "isActive": true,
+            "merchant": "272",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "8%: AKS8",
+                        "discountValue": "8.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 27.04,
+                    "priceWithoutCoupon": 29.39
+                }
+            },
+            "edition": "1",
+            "region": "9",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134524473,
+            "affiliateUrl": "https://www.hrkgame.com/en/games/product/hitman-3-steam",
+            "isActive": true,
+            "merchant": "94",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "-10%: ALLKEYSHOP10",
+                        "discountValue": "10.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 27.19,
+                    "priceWithoutCoupon": 30.21
+                }
+            },
+            "edition": "1",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 133557773,
+            "affiliateUrl": "https://www.play-asia.com/hitman-iii/13/70e783?ref=sa_alks&affiliate_id=1827027",
+            "isActive": true,
+            "merchant": "49",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 28.09,
+                    "priceWithoutCoupon": 28.09
+                }
+            },
+            "edition": "1",
+            "region": "80",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133399211,
+            "affiliateUrl": "https://www.g2a.com/en/hitman-3-pc-epic-games-key-global-i10000218039003?aid=13261684&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop",
+            "isActive": true,
+            "merchant": "61",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 28.26,
+                    "priceWithoutCoupon": 28.26
+                }
+            },
+            "edition": "1",
+            "region": "80",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134518514,
+            "affiliateUrl": "https://www.g2a.com/hitman-3-pc-steam-key-global-i10000218039017?aid=13316203&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_PLUS_GAM_LISTING_NOR_allkeyshopPLUS",
+            "isActive": true,
+            "merchant": "61616",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "1.99€ Monthly Sub",
+                        "discountValue": "0.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 28.5,
+                    "priceWithoutCoupon": 28.5
+                }
+            },
+            "edition": "1",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134597584,
+            "affiliateUrl": "https://k4g.com/product/hitman-3-steam-global-standard-edition-cd-key-270F3CE4?r=aks",
+            "isActive": true,
+            "merchant": "324",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "10%: AKS10OCTOBER",
+                        "discountValue": "10.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 29.12,
+                    "priceWithoutCoupon": 32.35
+                }
+            },
+            "edition": "1",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134610680,
+            "affiliateUrl": "https://k4g.com/product/hitman-3-steam-europe-standard-edition-cd-key-F234B28D?r=aks",
+            "isActive": true,
+            "merchant": "324",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "10%: AKS10OCTOBER",
+                        "discountValue": "10.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 29.12,
+                    "priceWithoutCoupon": 32.35
+                }
+            },
+            "edition": "1",
+            "region": "9",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134556465,
+            "affiliateUrl": "https://www.g2a.com/hitman-3-pc-steam-key-europe-i10000218039018?aid=13245907&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_PLUS_GAM_LISTING_NOR_allkeyshopPLUS",
+            "isActive": true,
+            "merchant": "61616",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "1.99€ Monthly Sub",
+                        "discountValue": "0.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 30,
+                    "priceWithoutCoupon": 30
+                }
+            },
+            "edition": "1",
+            "region": "9",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134518513,
+            "affiliateUrl": "https://www.g2a.com/hitman-3-pc-steam-key-global-i10000218039017?aid=13316203&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop",
+            "isActive": true,
+            "merchant": "61",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 30.97,
+                    "priceWithoutCoupon": 30.97
+                }
+            },
+            "edition": "1",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134692126,
+            "affiliateUrl": "https://www.eneba.com/steam-hitman-3-pc-steam-key-europe-united-states?af_id=allkeyshop",
+            "isActive": true,
+            "merchant": "272",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "8%: AKS8",
+                        "discountValue": "8.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 32.19,
+                    "priceWithoutCoupon": 34.99
+                }
+            },
+            "edition": "1",
+            "region": "steamrow",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134556464,
+            "affiliateUrl": "https://www.g2a.com/hitman-3-pc-steam-key-europe-i10000218039018?aid=13245907&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop",
+            "isActive": true,
+            "merchant": "61",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 32.6,
+                    "priceWithoutCoupon": 32.6
+                }
+            },
+            "edition": "1",
+            "region": "9",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134652550,
+            "affiliateUrl": "https://www.play-asia.com/hitman-iii/13/70fltx?ref=sa_alks&affiliate_id=1827027",
+            "isActive": true,
+            "merchant": "49",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 35.05,
+                    "priceWithoutCoupon": 35.05
+                }
+            },
+            "edition": "1",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134571649,
+            "affiliateUrl": "https://www.mmoga.com/Steam-Games/HITMAN-3-Deluxe-Edition.html?ref=615&currency=EUR",
+            "isActive": true,
+            "merchant": "40",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 35.99,
+                    "priceWithoutCoupon": 35.99
+                }
+            },
+            "edition": "7",
+            "region": "9",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134451227,
+            "affiliateUrl": "https://royalcdkeys.com/products/hitman-3-steam-cd-key?variant=39961459687561",
+            "isActive": true,
+            "merchant": "321",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 41.66,
+                    "priceWithoutCoupon": 41.66
+                }
+            },
+            "edition": "1",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134556470,
+            "affiliateUrl": "https://www.kinguin.net/category/118902/hitman-3-deluxe-edition-steam-cd-key?r=3445&nosalesbooster=1&currency=EUR&discount=OCTOBER14",
+            "isActive": true,
+            "merchant": "47",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "14%: OCTOBER14",
+                        "discountValue": "14.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 42.69,
+                    "priceWithoutCoupon": 49.64
+                }
+            },
+            "edition": "7",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134576917,
+            "affiliateUrl": "http://www.gamingdragons.com/en/game/buy-hitman-3-steam-key.html?gmdr=0973674c",
+            "isActive": true,
+            "merchant": "73",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 42.95,
+                    "priceWithoutCoupon": 42.95
+                }
+            },
+            "edition": "1",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134658087,
+            "affiliateUrl": "https://www.eneba.com/steam-hitman-3-deluxe-edition-pc-steam-key-europe?af_id=allkeyshop",
+            "isActive": true,
+            "merchant": "272",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "8%: AKS8",
+                        "discountValue": "8.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 44.68,
+                    "priceWithoutCoupon": 48.56
+                }
+            },
+            "edition": "7",
+            "region": "9",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134545660,
+            "affiliateUrl": "https://www.gamivo.com/product/hitman-3-deluxe-edition?glv=kiwhuamu",
+            "isActive": true,
+            "merchant": "218",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "8%: AKSOCTOBER",
+                        "discountValue": "8.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 45.99,
+                    "priceWithoutCoupon": 49.99
+                }
+            },
+            "edition": "7",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134655272,
+            "affiliateUrl": "https://www.kinguin.net/category/125752/hitman-3-deluxe-edition-row-steam-cd-key?r=3445&nosalesbooster=1&currency=EUR&discount=OCTOBER14",
+            "isActive": true,
+            "merchant": "47",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "14%: OCTOBER14",
+                        "discountValue": "14.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 47.29,
+                    "priceWithoutCoupon": 54.99
+                }
+            },
+            "edition": "7",
+            "region": "steamrow",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134523817,
+            "affiliateUrl": "https://www.g2a.com/hitman-3-deluxe-edition-pc-steam-key-global-i10000218039023?aid=13317167&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_PLUS_GAM_LISTING_NOR_allkeyshopPLUS",
+            "isActive": true,
+            "merchant": "61616",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "1.99€ Monthly Sub",
+                        "discountValue": "0.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 47.99,
+                    "priceWithoutCoupon": 47.99
+                }
+            },
+            "edition": "7",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134638685,
+            "affiliateUrl": "https://www.hrkgame.com/en/games/product/hitman-3-deluxe-edition",
+            "isActive": true,
+            "merchant": "94",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "-10%: ALLKEYSHOP10",
+                        "discountValue": "10.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 48.03,
+                    "priceWithoutCoupon": 53.37
+                }
+            },
+            "edition": "7",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134622627,
+            "affiliateUrl": "https://www.kinguin.net/category/123598/hitman-3-deluxe-edition-eu-steam-cd-key?r=3445&nosalesbooster=1&currency=EUR&discount=OCTOBER14",
+            "isActive": true,
+            "merchant": "47",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "14%: OCTOBER14",
+                        "discountValue": "14.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 48.16,
+                    "priceWithoutCoupon": 56
+                }
+            },
+            "edition": "7",
+            "region": "9",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134507861,
+            "affiliateUrl": "https://royalcdkeys.com/products/hitman-3-epic-games?variant=40157601333385",
+            "isActive": true,
+            "merchant": "321",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 49.06,
+                    "priceWithoutCoupon": 49.06
+                }
+            },
+            "edition": "1",
+            "region": "80",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134514503,
+            "affiliateUrl": "https://www.eneba.com/steam-hitman-3-deluxe-edition-pc-steam-key-global?af_id=allkeyshop",
+            "isActive": true,
+            "merchant": "272",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "8%: AKS8",
+                        "discountValue": "8.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 50.08,
+                    "priceWithoutCoupon": 54.44
+                }
+            },
+            "edition": "7",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134668487,
+            "affiliateUrl": "https://k4g.com/product/hitman-3-steam-global-deluxe-edition-cd-key-66AF7508?r=aks",
+            "isActive": true,
+            "merchant": "324",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "10%: AKS10OCTOBER",
+                        "discountValue": "10.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 51.47,
+                    "priceWithoutCoupon": 57.19
+                }
+            },
+            "edition": "7",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134523816,
+            "affiliateUrl": "https://www.g2a.com/hitman-3-deluxe-edition-pc-steam-key-global-i10000218039023?aid=13317167&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop",
+            "isActive": true,
+            "merchant": "61",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 52.16,
+                    "priceWithoutCoupon": 52.16
+                }
+            },
+            "edition": "7",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134508136,
+            "affiliateUrl": "https://royalcdkeys.com/products/hitman-3-eu-epic-games?variant=40157608870025",
+            "isActive": true,
+            "merchant": "321",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 52.5,
+                    "priceWithoutCoupon": 52.5
+                }
+            },
+            "edition": "1",
+            "region": "80eu",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134638687,
+            "affiliateUrl": "https://www.hrkgame.com/en/games/product/hitman-3-deluxe-edition-europe",
+            "isActive": true,
+            "merchant": "94",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "-10%: ALLKEYSHOP10",
+                        "discountValue": "10.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 54.31,
+                    "priceWithoutCoupon": 60.34
+                }
+            },
+            "edition": "7",
+            "region": "9",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134658897,
+            "affiliateUrl": "https://www.voidu.com/en/product/hitman-3-standard-edition-steam/12825?affiliate=allkeyshop",
+            "isActive": true,
+            "merchant": "222",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 59.99,
+                    "priceWithoutCoupon": 59.99
+                }
+            },
+            "edition": "1",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134669076,
+            "affiliateUrl": "https://www.epicgames.com/store/p/hitman-3?epic_creator_id=4c0c009da90244738ae7530a0979d942",
+            "isActive": true,
+            "merchant": "157",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 59.99,
+                    "priceWithoutCoupon": 59.99
+                }
+            },
+            "edition": "1",
+            "region": "80",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134554780,
+            "affiliateUrl": "https://greenmangaming.sjv.io/c/1297091/1272000/15105?prodsku=HITMAN%203%20-%20PC&u=https%3A%2F%2Fwww.greenmangaming.com%2Fgames%2Fhitman-3-pc%2F&intsrc=CATF_9616",
+            "isActive": true,
+            "merchant": "63",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 59.99,
+                    "priceWithoutCoupon": 59.99
+                }
+            },
+            "edition": "1",
+            "region": "80",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133397372,
+            "affiliateUrl": "https://www.humblebundle.com/store/hitman-3?partner=cdd",
+            "isActive": true,
+            "merchant": "126",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 59.99,
+                    "priceWithoutCoupon": 59.99
+                }
+            },
+            "edition": "1",
+            "region": "80",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134564614,
+            "affiliateUrl": "https://greenmangaming.sjv.io/c/1297091/1272000/15105?prodsku=HITMAN%203%20STEAM%20-%20PC&u=https%3A%2F%2Fwww.greenmangaming.com%2Fgames%2Fhitman-3-steam-pc%2F&intsrc=CATF_9616",
+            "isActive": true,
+            "merchant": "63",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 59.99,
+                    "priceWithoutCoupon": 59.99
+                }
+            },
+            "edition": "1",
+            "region": "steamrow",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134664381,
+            "affiliateUrl": "https://www.g2a.com/fr-fr/hitman-3-deluxe-edition-pc-steam-key-europe-i10000218039024?aid=13293593&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_PLUS_GAM_LISTING_NOR_allkeyshopPLUS",
+            "isActive": true,
+            "merchant": "61616",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "1.99€ Monthly Sub",
+                        "discountValue": "0.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 60,
+                    "priceWithoutCoupon": 60
+                }
+            },
+            "edition": "7",
+            "region": "9",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134664380,
+            "affiliateUrl": "https://www.g2a.com/fr-fr/hitman-3-deluxe-edition-pc-steam-key-europe-i10000218039024?aid=13293593&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop",
+            "isActive": true,
+            "merchant": "61",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 62.43,
+                    "priceWithoutCoupon": 62.43
+                }
+            },
+            "edition": "7",
+            "region": "9",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134630826,
+            "affiliateUrl": "https://www.g2a.com/hitman-3-deluxe-edition-pc-steam-key-row-i10000218039028?aid=13291963&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_PLUS_GAM_LISTING_NOR_allkeyshopPLUS",
+            "isActive": true,
+            "merchant": "61616",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "1.99€ Monthly Sub",
+                        "discountValue": "0.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 65.31,
+                    "priceWithoutCoupon": 65.31
+                }
+            },
+            "edition": "7",
+            "region": "steamrow",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134444189,
+            "affiliateUrl": "https://www.kinguin.net/category/109484/hitman-3-steam-altergift?r=3445&nosalesbooster=1&currency=EUR&discount=OCTOBER14",
+            "isActive": true,
+            "merchant": "47",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "14%: OCTOBER14",
+                        "discountValue": "14.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 66.28,
+                    "priceWithoutCoupon": 77.07
+                }
+            },
+            "edition": "1",
+            "region": "25",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134432569,
+            "affiliateUrl": "https://www.gamivo.com/product/hitman-3-steam-gift?glv=kiwhuamu",
+            "isActive": true,
+            "merchant": "218",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "8%: AKSOCTOBER",
+                        "discountValue": "8.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 67.01,
+                    "priceWithoutCoupon": 72.84
+                }
+            },
+            "edition": "1",
+            "region": "25",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134533054,
+            "affiliateUrl": "https://www.cjs-cdkeys.com/products/HITMAN-3-Steam-Key.html",
+            "isActive": true,
+            "merchant": "67",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 67.39,
+                    "priceWithoutCoupon": 67.39
+                }
+            },
+            "edition": "1",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134630825,
+            "affiliateUrl": "https://www.g2a.com/hitman-3-deluxe-edition-pc-steam-key-row-i10000218039028?aid=13291963&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop",
+            "isActive": true,
+            "merchant": "61",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 67.96,
+                    "priceWithoutCoupon": 67.96
+                }
+            },
+            "edition": "7",
+            "region": "steamrow",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134432611,
+            "affiliateUrl": "https://www.g2a.com/hitman-3-pc-steam-gift-global-i10000218039019?aid=13125957&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop",
+            "isActive": true,
+            "merchant": "61",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 75.91,
+                    "priceWithoutCoupon": 75.91
+                }
+            },
+            "edition": "1",
+            "region": "25",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134564612,
+            "affiliateUrl": "https://greenmangaming.sjv.io/c/1297091/1272000/15105?prodsku=HITMAN%203%20Deluxe%20Edition%20STEAM%20-%20PC&u=https%3A%2F%2Fwww.greenmangaming.com%2Fgames%2Fhitman-3-deluxe-edition-steam-pc%2F&intsrc=CATF_9616",
+            "isActive": true,
+            "merchant": "63",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 89.99,
+                    "priceWithoutCoupon": 89.99
+                }
+            },
+            "edition": "7",
+            "region": "steamrow",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134554781,
+            "affiliateUrl": "https://greenmangaming.sjv.io/c/1297091/1272000/15105?prodsku=HITMAN%203%20Deluxe%20Edition%20-%20PC&u=https%3A%2F%2Fwww.greenmangaming.com%2Fgames%2Fhitman-3-deluxe-edition-pc%2F&intsrc=CATF_9616",
+            "isActive": true,
+            "merchant": "63",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 89.99,
+                    "priceWithoutCoupon": 89.99
+                }
+            },
+            "edition": "7",
+            "region": "80",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134668913,
+            "affiliateUrl": "https://www.epicgames.com/store/p/hitman-3--deluxe-edition?epic_creator_id=4c0c009da90244738ae7530a0979d942",
+            "isActive": true,
+            "merchant": "157",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 89.99,
+                    "priceWithoutCoupon": 89.99
+                }
+            },
+            "edition": "7",
+            "region": "80",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134658895,
+            "affiliateUrl": "https://www.voidu.com/en/product/hitman-3-deluxe-edition-steam/12826?affiliate=allkeyshop",
+            "isActive": true,
+            "merchant": "222",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 89.99,
+                    "priceWithoutCoupon": 89.99
+                }
+            },
+            "edition": "7",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 133397371,
+            "affiliateUrl": "https://www.humblebundle.com/store/hitman-3-deluxe-edition?partner=cdd",
+            "isActive": true,
+            "merchant": "126",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 89.99,
+                    "priceWithoutCoupon": 89.99
+                }
+            },
+            "edition": "7",
+            "region": "80",
+            "stock": "InStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134440302,
+            "affiliateUrl": "https://www.kinguin.net/category/109485/hitman-3-deluxe-edition-steam-altergift?r=3445&nosalesbooster=1&currency=EUR&discount=OCTOBER14",
+            "isActive": true,
+            "merchant": "47",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "14%: OCTOBER14",
+                        "discountValue": "14.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 98.07,
+                    "priceWithoutCoupon": 114.03
+                }
+            },
+            "edition": "7",
+            "region": "25",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134432571,
+            "affiliateUrl": "https://www.gamivo.com/product/hitman-3-deluxe-edition-steam-gift?glv=kiwhuamu",
+            "isActive": true,
+            "merchant": "218",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "8%: AKSOCTOBER",
+                        "discountValue": "8.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 99.15,
+                    "priceWithoutCoupon": 107.77
+                }
+            },
+            "edition": "7",
+            "region": "25",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134689466,
+            "affiliateUrl": "https://store.steampowered.com/app/1659040/HITMAN_3/",
+            "isActive": true,
+            "merchant": "1",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 99.99,
+                    "priceWithoutCoupon": 99.99
+                }
+            },
+            "edition": "1",
+            "region": "2",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134432035,
+            "affiliateUrl": "https://www.g2a.com/hitman-3-deluxe-edition-pc-steam-gift-global-i10000218039025?aid=13125788&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop",
+            "isActive": true,
+            "merchant": "61",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 112.2,
+                    "priceWithoutCoupon": 112.2
+                }
+            },
+            "edition": "7",
+            "region": "25",
+            "stock": "InStock",
+            "platform": "steam"
+        },
+        {
+            "id": 133379923,
+            "affiliateUrl": "https://www.cdkeys.com/hitman-3-pc-epic-games?mw_aref=8023ef0aa94165947417b567beee956d",
+            "isActive": true,
+            "merchant": "9",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 21.09,
+                    "priceWithoutCoupon": 21.09
+                }
+            },
+            "edition": "1",
+            "region": "80",
+            "stock": "OutOfStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 134567518,
+            "affiliateUrl": "https://www.gamers-outlet.net/buy-hitman-3-cd-key-steam?tracking=allkeyshop",
+            "isActive": true,
+            "merchant": "77",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 22.84,
+                    "priceWithoutCoupon": 22.84
+                }
+            },
+            "edition": "1",
+            "region": "2",
+            "stock": "OutOfStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134634311,
+            "affiliateUrl": "https://www.cdkeys.com/hitman-3-deluxe-edition-pc-steam?mw_aref=8023ef0aa94165947417b567beee956d",
+            "isActive": true,
+            "merchant": "9",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 31.19,
+                    "priceWithoutCoupon": 31.19
+                }
+            },
+            "edition": "7",
+            "region": "2",
+            "stock": "OutOfStock",
+            "platform": "steam"
+        },
+        {
+            "id": 134530249,
+            "affiliateUrl": "https://keyesd.myshopify.com/products/hitman-3-global",
+            "isActive": true,
+            "merchant": "325",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 35.88,
+                    "priceWithoutCoupon": 35.88
+                }
+            },
+            "edition": "1",
+            "region": "80",
+            "stock": "OutOfStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133534742,
+            "affiliateUrl": "https://punktid.com/hitman-3-greencode",
+            "isActive": true,
+            "merchant": "307",
+            "price": {
+                "eur": {
+                    "bestCoupon": {
+                        "code": "-5%: AKS5",
+                        "discountValue": "5.00",
+                        "discountStrategy": "%",
+                        "isCashback": false
+                    },
+                    "currency": "eur",
+                    "price": 47.02,
+                    "priceWithoutCoupon": 49.49
+                }
+            },
+            "edition": "1",
+            "region": "634",
+            "stock": "OutOfStock",
+            "platform": "epic-store"
+        },
+        {
+            "id": 133398774,
+            "affiliateUrl": "https://www.gamingdragons.com/en/game/buy-hitman-3-epic-games-deluxe-key.html?gmdr=0973674c",
+            "isActive": true,
+            "merchant": "73",
+            "price": {
+                "eur": {
+                    "bestCoupon": null,
+                    "currency": "eur",
+                    "price": 67.95,
+                    "priceWithoutCoupon": 67.95
+                }
+            },
+            "edition": "7",
+            "region": "80",
+            "stock": "OutOfStock",
+            "platform": "epic-store"
+        }
+    ],
+    "merchants": {
+        "94": {
+            "id": "94",
+            "name": "HRK",
+            "aggregateRating": {
+                "value": 2.71,
+                "count": 321
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal",
+                    "crypto"
+                ]
+            },
+            "logoSlug": "hrk",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/hrkgame/"
+        },
+        "47": {
+            "id": "47",
+            "name": "Kinguin",
+            "aggregateRating": {
+                "value": 4.17,
+                "count": 586
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal"
+                ]
+            },
+            "logoSlug": "kinguin",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/kinguin/"
+        },
+        "324": {
+            "id": "324",
+            "name": "K4G",
+            "aggregateRating": {
+                "value": 4.85,
+                "count": 664
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal"
+                ]
+            },
+            "logoSlug": "k4g",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/k4g/"
+        },
+        "272": {
+            "id": "272",
+            "name": "Eneba",
+            "aggregateRating": {
+                "value": 3.62,
+                "count": 313
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal"
+                ]
+            },
+            "logoSlug": "eneba",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/eneba/"
+        },
+        "218": {
+            "id": "218",
+            "name": "GAMIVO",
+            "aggregateRating": {
+                "value": 4.17,
+                "count": 1237
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal",
+                    "crypto"
+                ]
+            },
+            "logoSlug": "gamivo",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/gamivo/"
+        },
+        "13": {
+            "id": "13",
+            "name": "Instant Gaming",
+            "aggregateRating": {
+                "value": 4.26,
+                "count": 306
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "paypal",
+                    "card"
+                ]
+            },
+            "logoSlug": "instant-gaming",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/instant-gaming/"
+        },
+        "9": {
+            "id": "9",
+            "name": "CDKeys.com",
+            "aggregateRating": {
+                "value": 4.17,
+                "count": 724
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal"
+                ]
+            },
+            "logoSlug": "cdkeys-com",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/cdkeys_com/"
+        },
+        "77": {
+            "id": "77",
+            "name": "Gamers Outlet",
+            "aggregateRating": {
+                "value": 4.09,
+                "count": 151
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal"
+                ]
+            },
+            "logoSlug": "gamers-outlet",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/gamers-outlet/"
+        },
+        "224": {
+            "id": "224",
+            "name": "Vidaplayer",
+            "aggregateRating": {
+                "value": 3.59,
+                "count": 11
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "crypto",
+                    "paypal"
+                ]
+            },
+            "logoSlug": "vidaplayer",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/vidaplayer/"
+        },
+        "61616": {
+            "id": "61616",
+            "name": "G2A Plus",
+            "aggregateRating": {
+                "value": 4.29,
+                "count": 292
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal"
+                ]
+            },
+            "logoSlug": "g2a",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/g2a/"
+        },
+        "40": {
+            "id": "40",
+            "name": "Mmoga",
+            "aggregateRating": {
+                "value": 3.2,
+                "count": 180
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal",
+                    "crypto"
+                ]
+            },
+            "logoSlug": "mmoga",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/mmoga/"
+        },
+        "67": {
+            "id": "67",
+            "name": "CJS-CDKeys",
+            "aggregateRating": {
+                "value": 3.79,
+                "count": 803
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal"
+                ]
+            },
+            "logoSlug": "cjs-cdkeys",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/cjs-cdkeys/"
+        },
+        "73": {
+            "id": "73",
+            "name": "Gamingdragons",
+            "aggregateRating": {
+                "value": 3.04,
+                "count": 69
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal"
+                ]
+            },
+            "logoSlug": "gamingdragons",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/gamingdragons/"
+        },
+        "61": {
+            "id": "61",
+            "name": "G2A",
+            "aggregateRating": {
+                "value": 4.29,
+                "count": 292
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal"
+                ]
+            },
+            "logoSlug": "g2a",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/g2a/"
+        },
+        "49": {
+            "id": "49",
+            "name": "Play-Asia",
+            "aggregateRating": {
+                "value": 4.55,
+                "count": 10
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal"
+                ]
+            },
+            "logoSlug": "play-asia",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/play-asia/"
+        },
+        "307": {
+            "id": "307",
+            "name": "Punktid",
+            "aggregateRating": {
+                "value": 2.18,
+                "count": 31
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "paypal",
+                    "crypto"
+                ]
+            },
+            "logoSlug": "punktid",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/punktid/"
+        },
+        "315": {
+            "id": "315",
+            "name": "Livecards EU",
+            "aggregateRating": {
+                "value": 3.58,
+                "count": 6
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "crypto"
+                ]
+            },
+            "logoSlug": "livecards",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/livecards/"
+        },
+        "325": {
+            "id": "325",
+            "name": "Keyesd",
+            "aggregateRating": {
+                "value": 4.73,
+                "count": 122
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card"
+                ]
+            },
+            "logoSlug": "keyesd",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/keyesd/"
+        },
+        "321": {
+            "id": "321",
+            "name": "Royal CD Keys",
+            "aggregateRating": {
+                "value": 4.4,
+                "count": 286
+            },
+            "types": "CD Key Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card"
+                ]
+            },
+            "logoSlug": "royal-cd-keys",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/royalcdkeys/"
+        },
+        "222": {
+            "id": "222",
+            "name": "Voidu EU",
+            "aggregateRating": {
+                "value": 3.89,
+                "count": 100
+            },
+            "types": "Official Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal"
+                ]
+            },
+            "logoSlug": "voidu",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/voidu/"
+        },
+        "157": {
+            "id": "157",
+            "name": "Epic Games",
+            "aggregateRating": {
+                "value": 3.06,
+                "count": 9
+            },
+            "types": "Official Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal"
+                ]
+            },
+            "logoSlug": "epic-games",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/epicgames/"
+        },
+        "63": {
+            "id": "63",
+            "name": "Greenmangaming",
+            "aggregateRating": {
+                "value": 4.61,
+                "count": 46
+            },
+            "types": "Official Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal",
+                    "crypto"
+                ]
+            },
+            "logoSlug": "greenmangaming",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/greenmangaming/"
+        },
+        "126": {
+            "id": "126",
+            "name": "Humble Store",
+            "aggregateRating": {
+                "value": 5,
+                "count": 5
+            },
+            "types": "Official Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal"
+                ]
+            },
+            "logoSlug": "humble-store",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/humble_store/"
+        },
+        "1": {
+            "id": "1",
+            "name": "Steam",
+            "aggregateRating": {
+                "value": 4.8,
+                "count": 46
+            },
+            "types": "Official Store",
+            "paymentMethods": {
+                "paymentMethode": [
+                    "card",
+                    "paypal"
+                ]
+            },
+            "logoSlug": "steam",
+            "reviewUrl": "https://www.allkeyshop.com/blog/review/steam/"
+        }
+    },
+    "editions": {
+        "1": {
+            "id": "1",
+            "name": "Standard"
+        },
+        "7": {
+            "id": "7",
+            "name": "Deluxe"
+        }
+    },
+    "regions": {
+        "80eu": {
+            "id": "80eu",
+            "name": "EUROPE",
+            "filterName": "EPIC EUROPE"
+        },
+        "80": {
+            "id": "80",
+            "name": "GLOBAL",
+            "filterName": "EPIC GLOBAL"
+        },
+        "2": {
+            "id": "2",
+            "name": "GLOBAL",
+            "filterName": "STEAM GLOBAL"
+        },
+        "9": {
+            "id": "9",
+            "name": "EUROPE",
+            "filterName": "STEAM EU"
+        },
+        "steamrow": {
+            "id": "steamrow",
+            "name": "ROW",
+            "filterName": "STEAM ROW"
+        },
+        "25": {
+            "id": "25",
+            "name": "GIFT",
+            "filterName": "STEAM GIFT GLOBAL"
+        },
+        "634": {
+            "id": "634",
+            "name": "EU GMG GIFT",
+            "filterName": "EPIC EU GMG GIFT"
+        }
+    }
+}
