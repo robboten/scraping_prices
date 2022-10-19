@@ -7,6 +7,10 @@ name = "pypi"
 sqlalchemy = "*"
 requests = "*"
 pandas = "*"
+parquet = "*"
+pyarrow = "*"
+nbformat = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 ipykernel = "*"
