@@ -1,3 +1,11 @@
+'''
+todo: 
+ add class, 
+ make pqs more modular and maybe merge, 
+ add the _main_ thing to not get output on import runs, (if __name__ == "__main__":)
+ save more games in one table and make it cleaner in the long run (unify data)
+'''
+
 import pyarrow as pa
 import pyarrow.parquet as pq
 import pandas as pd
