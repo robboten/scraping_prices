@@ -11,6 +11,7 @@ parquet = "*"
 pyarrow = "*"
 nbformat = "*"
 beautifulsoup4 = "*"
+matplotlib = "*"
 
 [dev-packages]
 ipykernel = "*"
